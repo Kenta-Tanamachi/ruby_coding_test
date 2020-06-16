@@ -1,5 +1,6 @@
 ## 1. Direcroty Structure
 
+```
 .
 ├── functional
 │   ├── lib
@@ -21,6 +22,7 @@
 │   ├── fizzbuzz.rb
 │   └── nabeatsu.rb
 └── README
+```
 
 ### 2. Clone this repogitory
 
